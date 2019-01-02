@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2017",
+    "outDir": "./lib",
+    "declaration": true,
+    "moduleResolution": "node",
+    "pretty": true,
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
